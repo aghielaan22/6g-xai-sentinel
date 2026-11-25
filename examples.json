@@ -1,0 +1,227 @@
+[
+    {
+        "actual_category": "Attack",
+        "features": {
+            "Flow Duration": 9770759.0,
+            "Total Fwd Packets": 5.0,
+            "Total Backward Packets": 0.0,
+            "Flow IAT Mean": 2442689.75,
+            "Flow IAT Std": 4884719.522,
+            "Flow IAT Max": 9769769.0,
+            "Flow IAT Min": 1.0,
+            "Fwd Packet Length Mean": 6.0,
+            "Bwd Packet Length Mean": 0.0,
+            "Flow Packets/s": 0.511730972
+        }
+    },
+    {
+        "actual_category": "Attack",
+        "features": {
+            "Flow Duration": 1216054.0,
+            "Total Fwd Packets": 3.0,
+            "Total Backward Packets": 6.0,
+            "Flow IAT Mean": 152006.75,
+            "Flow IAT Std": 429598.6334,
+            "Flow IAT Max": 1215209.0,
+            "Flow IAT Min": 2.0,
+            "Fwd Packet Length Mean": 8.666666667,
+            "Bwd Packet Length Mean": 1934.5,
+            "Flow Packets/s": 7.400987127
+        }
+    },
+    {
+        "actual_category": "Attack",
+        "features": {
+            "Flow Duration": 6072504.0,
+            "Total Fwd Packets": 4.0,
+            "Total Backward Packets": 0.0,
+            "Flow IAT Mean": 2024168.0,
+            "Flow IAT Std": 3505341.747,
+            "Flow IAT Max": 6071788.0,
+            "Flow IAT Min": 232.0,
+            "Fwd Packet Length Mean": 6.0,
+            "Bwd Packet Length Mean": 0.0,
+            "Flow Packets/s": 0.658706853
+        }
+    },
+    {
+        "actual_category": "Attack",
+        "features": {
+            "Flow Duration": 305382.0,
+            "Total Fwd Packets": 3.0,
+            "Total Backward Packets": 5.0,
+            "Flow IAT Mean": 43626.0,
+            "Flow IAT Std": 114461.4194,
+            "Flow IAT Max": 303198.0,
+            "Flow IAT Min": 46.0,
+            "Fwd Packet Length Mean": 8.666666667,
+            "Bwd Packet Length Mean": 2321.4,
+            "Flow Packets/s": 26.19669791
+        }
+    },
+    {
+        "actual_category": "Attack",
+        "features": {
+            "Flow Duration": 44258.0,
+            "Total Fwd Packets": 3.0,
+            "Total Backward Packets": 5.0,
+            "Flow IAT Mean": 6322.571429,
+            "Flow IAT Std": 10763.45745,
+            "Flow IAT Max": 25528.0,
+            "Flow IAT Min": 40.0,
+            "Fwd Packet Length Mean": 8.666666667,
+            "Bwd Packet Length Mean": 2320.2,
+            "Flow Packets/s": 180.758281
+        }
+    },
+    {
+        "actual_category": "Normal",
+        "features": {
+            "Flow Duration": 76699.0,
+            "Total Fwd Packets": 4.0,
+            "Total Backward Packets": 2.0,
+            "Flow IAT Mean": 15339.8,
+            "Flow IAT Std": 21628.32286,
+            "Flow IAT Max": 45754.0,
+            "Flow IAT Min": 3.0,
+            "Fwd Packet Length Mean": 67.0,
+            "Bwd Packet Length Mean": 149.0,
+            "Flow Packets/s": 78.22787781
+        }
+    },
+    {
+        "actual_category": "Normal",
+        "features": {
+            "Flow Duration": 67.0,
+            "Total Fwd Packets": 1.0,
+            "Total Backward Packets": 1.0,
+            "Flow IAT Mean": 67.0,
+            "Flow IAT Std": 0.0,
+            "Flow IAT Max": 67.0,
+            "Flow IAT Min": 67.0,
+            "Fwd Packet Length Mean": 6.0,
+            "Bwd Packet Length Mean": 6.0,
+            "Flow Packets/s": 29850.74627
+        }
+    },
+    {
+        "actual_category": "Normal",
+        "features": {
+            "Flow Duration": 49490.0,
+            "Total Fwd Packets": 4.0,
+            "Total Backward Packets": 2.0,
+            "Flow IAT Mean": 9898.0,
+            "Flow IAT Std": 17038.23706,
+            "Flow IAT Max": 39428.0,
+            "Flow IAT Min": 1.0,
+            "Fwd Packet Length Mean": 45.0,
+            "Bwd Packet Length Mean": 106.0,
+            "Flow Packets/s": 121.2366135
+        }
+    },
+    {
+        "actual_category": "Normal",
+        "features": {
+            "Flow Duration": 16259865.0,
+            "Total Fwd Packets": 9.0,
+            "Total Backward Packets": 8.0,
+            "Flow IAT Mean": 1016241.563,
+            "Flow IAT Std": 2652576.559,
+            "Flow IAT Max": 9900229.0,
+            "Flow IAT Min": 4.0,
+            "Fwd Packet Length Mean": 85.55555556,
+            "Bwd Packet Length Mean": 442.75,
+            "Flow Packets/s": 1.045519136
+        }
+    },
+    {
+        "actual_category": "Normal",
+        "features": {
+            "Flow Duration": 191.0,
+            "Total Fwd Packets": 2.0,
+            "Total Backward Packets": 0.0,
+            "Flow IAT Mean": 191.0,
+            "Flow IAT Std": 0.0,
+            "Flow IAT Max": 191.0,
+            "Flow IAT Min": 191.0,
+            "Fwd Packet Length Mean": 6.0,
+            "Bwd Packet Length Mean": 0.0,
+            "Flow Packets/s": 10471.20419
+        }
+    },
+    {
+        "actual_category": "Timing Anomaly",
+        "features": {
+            "Flow Duration": 58901.0,
+            "Total Fwd Packets": 2.0,
+            "Total Backward Packets": 2.0,
+            "Flow IAT Mean": 58902.000009999996,
+            "Flow IAT Std": 136006.2482,
+            "Flow IAT Max": 176686.0,
+            "Flow IAT Min": 7.0,
+            "Fwd Packet Length Mean": 32.0,
+            "Bwd Packet Length Mean": 64.0,
+            "Flow Packets/s": 20.373168537
+        }
+    },
+    {
+        "actual_category": "Timing Anomaly",
+        "features": {
+            "Flow Duration": 85599.0,
+            "Total Fwd Packets": 1.0,
+            "Total Backward Packets": 1.0,
+            "Flow IAT Mean": 256798.0,
+            "Flow IAT Std": 1.0,
+            "Flow IAT Max": 256798.0,
+            "Flow IAT Min": 171199.0,
+            "Fwd Packet Length Mean": 49.0,
+            "Bwd Packet Length Mean": 112.0,
+            "Flow Packets/s": 7.009427679
+        }
+    },
+    {
+        "actual_category": "Timing Anomaly",
+        "features": {
+            "Flow Duration": 37775380.0,
+            "Total Fwd Packets": 7.0,
+            "Total Backward Packets": 7.0,
+            "Flow IAT Mean": 8717396.386,
+            "Flow IAT Std": 18104188.816,
+            "Flow IAT Max": 30000001.0,
+            "Flow IAT Min": 31.0,
+            "Fwd Packet Length Mean": 64.85714286,
+            "Bwd Packet Length Mean": 282.1428571,
+            "Flow Packets/s": 0.1111835274
+        }
+    },
+    {
+        "actual_category": "Timing Anomaly",
+        "features": {
+            "Flow Duration": 176.0,
+            "Total Fwd Packets": 2.0,
+            "Total Backward Packets": 2.0,
+            "Flow IAT Mean": 177.00000001,
+            "Flow IAT Std": 383.21111096,
+            "Flow IAT Max": 508.0,
+            "Flow IAT Min": 7.0,
+            "Fwd Packet Length Mean": 40.0,
+            "Bwd Packet Length Mean": 56.0,
+            "Flow Packets/s": 6818.181819
+        }
+    },
+    {
+        "actual_category": "Timing Anomaly",
+        "features": {
+            "Flow Duration": 180.0,
+            "Total Fwd Packets": 2.0,
+            "Total Backward Packets": 2.0,
+            "Flow IAT Mean": 181.0,
+            "Flow IAT Std": 256.40555984,
+            "Flow IAT Max": 388.0,
+            "Flow IAT Min": 7.0,
+            "Fwd Packet Length Mean": 35.0,
+            "Bwd Packet Length Mean": 89.0,
+            "Flow Packets/s": 6666.666666
+        }
+    }
+]

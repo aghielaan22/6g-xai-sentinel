@@ -1,0 +1,68 @@
+{
+    "accuracy": 0.9908616187989556,
+    "precision": 0.9908644634268026,
+    "recall": 0.9908616187989556,
+    "f1_score": 0.9908190845639412,
+    "test_records": 2298,
+    "training_records": 9186,
+    "classes": [
+        "Attack",
+        "Normal",
+        "Timing Anomaly"
+    ],
+    "confusion_matrix": [
+        [
+            1000,
+            0,
+            0
+        ],
+        [
+            2,
+            921,
+            4
+        ],
+        [
+            1,
+            14,
+            356
+        ]
+    ],
+    "classification_report": {
+        "Attack": {
+            "precision": 0.9970089730807578,
+            "recall": 1.0,
+            "f1-score": 0.9985022466300549,
+            "support": 1000.0
+        },
+        "Normal": {
+            "precision": 0.9850267379679144,
+            "recall": 0.9935275080906149,
+            "f1-score": 0.9892588614393125,
+            "support": 927.0
+        },
+        "Timing Anomaly": {
+            "precision": 0.9888888888888889,
+            "recall": 0.9595687331536388,
+            "f1-score": 0.9740082079343365,
+            "support": 371.0
+        },
+        "accuracy": 0.9908616187989556,
+        "macro avg": {
+            "precision": 0.9903081999791871,
+            "recall": 0.9843654137480845,
+            "f1-score": 0.9872564386679014,
+            "support": 2298.0
+        },
+        "weighted avg": {
+            "precision": 0.9908644634268026,
+            "recall": 0.9908616187989556,
+            "f1-score": 0.9908190845639412,
+            "support": 2298.0
+        }
+    },
+    "shap_verification": {
+        "records": 200,
+        "max_difference": 1.0380149701588737e-08,
+        "mean_difference": 3.2983645791885564e-09
+    }
+}

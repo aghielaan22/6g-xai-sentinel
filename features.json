@@ -1,0 +1,12 @@
+[
+    "Flow Duration",
+    "Total Fwd Packets",
+    "Total Backward Packets",
+    "Flow IAT Mean",
+    "Flow IAT Std",
+    "Flow IAT Max",
+    "Flow IAT Min",
+    "Fwd Packet Length Mean",
+    "Bwd Packet Length Mean",
+    "Flow Packets/s"
+]
